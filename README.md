@@ -7,10 +7,6 @@ I'm a tech pationnate who has the aim of acquiring acknowledgements in the multi
 
 ## GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=habbichelotfi&theme=tokyonight&hide_border=true
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habbichelotfi&show_icons=true&theme=op Languages](https://github-readme-stats.vercel.app/apiame=habbichelotfi&layout=compact&theme=transparent
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=habbichelotfi&theme=tokyonight&layout=compact&hide_border=true
-
-## And thank you for checking out my profile!
-
-https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:ght=120&section=footer
