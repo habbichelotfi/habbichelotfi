@@ -6,5 +6,5 @@ I'm Lotfi , a 27-year old Algerian.
 I'm a tech pationnate who has the aim of acquiring acknowledgements in the multiple tech fields.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habbichelotfi&show_icons=true&theme=radial" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habbichelotfi&theme=radial" alt="GitHub Streak" />
 </p>
